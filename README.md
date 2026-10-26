@@ -1,4 +1,4 @@
-# FINT1 - Gestion des notes de frais
+# Gestion des notes de frais
 
 Application web pour que les employes de SUP Herman declarent leurs frais professionnels. Un manager valide ou refuse les notes, le comptable traite celles qui sont validees.
 
